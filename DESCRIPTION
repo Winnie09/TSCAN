@@ -15,7 +15,6 @@ Imports:
     shiny,
     plyr,
     grid,
-    fastICA,
     igraph,
     combinat,
     mgcv,
